@@ -2,7 +2,7 @@
 
 Meu nome é João Victor, atualmente estou cursando o 8° Período de Bacharelado em Ciência da Computação no Instituto Federal Goiano - Campus Iporá.
 
-![snake gif](https://github.com/Toddynn1762/Toddynn1762/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/Joao-victrr/Joao-victrr/blob/output/github-contribution-grid-snake.gif)
 
 
 ## Tecnologias que eu estudo:
@@ -26,7 +26,7 @@ Meu nome é João Victor, atualmente estou cursando o 8° Período de Bacharelad
 
 ## Estatísticas
 <div>
-<a href="https://github.com/Toddynn1762">
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Toddynn1762&layout=compact&langs_count=7&theme=dracula"/> <img 
-     height="160em" src="https://github-readme-stats.vercel.app/api?username=Toddynn1762&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<a href="https://github.com/Joao-victrr">
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-victrr&layout=compact&langs_count=7&theme=dracula"/> <img 
+     height="160em" src="https://github-readme-stats.vercel.app/api?username=Joao-victrr&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
