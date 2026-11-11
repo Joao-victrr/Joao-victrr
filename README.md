@@ -25,8 +25,4 @@ Meu nome é João Victor, atualmente estou cursando o 8° Período de Bacharelad
 </div>
 
 ## Estatísticas
-<div>
-<a href="https://github.com/Joao-victrr">
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-victrr&layout=compact&langs_count=7&theme=dracula"/> <img 
-     height="150em" src="https://github-readme-stats.vercel.app/api?username=Joao-victrr&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?Joao-victrr=anuraghazra)](https://github.com/stats-organization/github-stats-extended)
